@@ -64,3 +64,6 @@ img{
     display: block;
   }
 }
+a{
+    border-radius: 12px;
+}
