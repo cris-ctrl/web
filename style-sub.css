@@ -13,3 +13,19 @@ body{
 li{
     height: 25px;
 }
+#back{
+    background-color: rgb(6, 122, 76);
+    border-radius: 12px;
+    width: 80px;
+    text-align: center;
+    transform: translateX(10%);
+}
+#title{
+    background-color: darkseagreen;
+    border-radius: 12px;
+    width: 490px;
+    transform: translateX(140%);
+}
+#center{
+    text-align: center;
+}
